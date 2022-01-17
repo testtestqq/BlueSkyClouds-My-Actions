@@ -28,7 +28,7 @@
 
 3. 如需修改执行时间自行修改`.github\workflows\`下面的yaml内的` cron:` 执行时间为国际标准时间 [时间转换](http://www.timebie.com/cn/universalbeijing.php) 分钟在前 小时在后 尽量提前几分钟,因为下载安装部署环境需要一定时间
 
-##### Cookie变量设置 Secrets:**
+##### Cookie变量设置 Secret:**
 
 | 名称     | 内容           |   说明  |
 | -------- | -------------|   ----- |
